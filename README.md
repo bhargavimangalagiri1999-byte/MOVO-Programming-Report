@@ -112,6 +112,7 @@ Working on the quality assurance of the MOVO prototype helped me understand the 
 The source code for the MOVO prototype was developed as part of a team project and is available in the team GitHub repository:
 
 https://github.com/aakash24006/MOVO
+https://github.com/BhuvaneshMehta/MovoApp
 
 ## Programming Report Repository
 
