@@ -113,6 +113,12 @@ The source code for the MOVO prototype was developed as part of a team project a
 
 https://github.com/aakash24006/MOVO
 
+## Programming Report Repository
+
+My individual programming report is available at:
+
+https://github.com/bhargavimangalagiri1999-byte/MOVO-Programming-Report
+
 # 8. Go-to-Market, Scale-Up Plan, and Cloud & AI Cost Estimation
 
 MOVO is designed for student athletes and physically active individuals who need simple and affordable post-workout recovery guidance. The application follows a **freemium model**, where basic recovery features are available free of charge, while advanced AI-based services can be offered through a premium subscription.
