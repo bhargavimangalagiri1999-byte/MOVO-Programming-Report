@@ -107,6 +107,11 @@ Working on the quality assurance of the MOVO prototype helped me understand the 
 5. Use the AI Recovery Coach for nutrition-related questions.
 
 6. Explore the nearby supermarket feature to locate recovery products.
+7. ## Source Code
+
+The source code for the MOVO prototype was developed as part of a team project and is available in the team GitHub repository:
+
+https://github.com/aakash24006/MOVO
 
 # 8. Go-to-Market, Scale-Up Plan, and Cloud & AI Cost Estimation
 
