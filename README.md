@@ -124,9 +124,11 @@ The test helped identify areas where the application's reliability and user expe
 
 In addition, evaluating software quality required more than checking functionality. It also involved assessing usability, reliability, and accessibility to ensure the prototype met the expected quality standards.
 
-![Figure 1. Supermarket Retrieval Issue](images/supermarket_bug.png)
+![Figure 1. Nearby Supermarket Map](supermarket_bug_map.jpeg)
+![Figure 2. Supermarket Retrieval Issue](supermarket_bug.jpeg)
 
-**Figure 1. Supermarket Retrieval Issue**
+**Figure 1. Nearby Supermarket Map**
+**Figure 2. Supermarket Retrieval Issue**
 
 *The application remained in the "Finding nearby supermarkets..." state without displaying nearby supermarket results.*
 
